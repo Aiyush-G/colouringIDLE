@@ -38,3 +38,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+# Blog Post: https://ooshimus.com/printing-colour-in-idle-in-less-than-2-minutes

@@ -1,14 +1,6 @@
 # ColouringIDLE
 
-ColouringIDLE is a Python library for dealing with simple coloured text in IDLE.
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install colouringIDLE
-```
+ColouringIDLE is a Python library for dealing with simple coloured text in IDLE. Just copy and paste the py file into another called colouringIDLE.
 
 ## Usage
 
